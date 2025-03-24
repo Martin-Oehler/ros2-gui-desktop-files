@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=rqt
+Comment=A Qt-based framework for GUI development for ROS
+Exec=/usr/bin/env rqt
+Icon=/opt/ros/jazzy/share/rqt_gui/resource/rqt.png
+Type=Application
+Keywords=ROS;Development;rqt;
+Categories=Development;Robotics;
+StartupWMClass=rqt

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RViz
+Comment=ROS2 Visualization Tool
+Exec=/usr/bin/env rviz2
+Icon=/opt/ros/jazzy/share/rviz_common/icons/package.png
+Type=Application
+Keywords=ROS;Visualization;RViz;
+Categories=Development;Robotics;
+StartupWMClass=rviz2

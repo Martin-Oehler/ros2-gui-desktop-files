@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Gazebo SIM
+Comment=A robotics simulator
+Exec=/usr/bin/env gz sim
+Icon=gazebo.png
+Type=Application
+Keywords=ROS;Development;RViz;Simulation
+Categories=Development;Robotics;Simulation
+StartupWMClass=Gazebo GUI
